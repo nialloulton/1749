@@ -1,4 +1,4 @@
 # 1749
-Public repository for all 1749 codes and api
-# twitter: @Niall20
-# Website: 1749.io
+Welcome to 1749 on GitHub!
+## twitter: @Niall20
+## Website: 1749.io
