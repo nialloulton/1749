@@ -1,0 +1,127 @@
+,batting number,Batsmen,Runs,Balls,4s,6s,SR,Dismissal
+0,1,Alan ,1,2,0,0,50.00,Caught
+1,2,Charan ,50,22,8,0,227.27,Not Out
+2,3,Jared ,43,24,5,1,179.17,Not Out
+3,4,Scott ,24,15,3,0,160.00,Not Out
+4,2,Dave ,50,25,5,2,200.00,Not Out
+5,3,Jared ,31,12,4,1,258.33,LBW
+6,4,Guy ,51,22,5,3,231.82,Not Out
+7,5,Sohail ,2,3,0,0,66.67,Bowled
+8,6,Laurence ,54,17,2,6,317.65,Not Out
+9,7,Scott ,7,4,0,1,175.00,Not Out
+10,8,Alan ,7,2,0,1,350.00,Not Out
+11,1,Charan ,25,20,3,0,125.00,Caught
+12,2,Scott ,2,11,0,0,18.18,Not Out
+13,3,Laurence ,51,31,4,3,164.52,Not Out
+14,4,Sohail ,1,3,0,0,33.33,Bowled
+15,5,Jared ,3,5,0,0,60.00,Caught
+16,6,Alan ,32,18,5,0,177.78,Not Out
+17,7,Dave ,3,4,0,0,75.00,Caught
+18,8,Guy ,8,9,0,0,88.89,Not Out
+19,1,Laurence ,47,33,2,3,142.42,Bowled
+20,2,Charan ,40,26,5,0,153.85,Caught
+21,3,Alan ,27,24,2,1,112.50,Caught
+22,4,Scott ,13,14,0,1,92.86,Bowled
+23,5,Sohail ,10,9,1,0,111.11,Not Out
+24,6,Guy ,0,5,0,0,0.00,Not Out
+25,1,Charan ,50,26,6,0,192.31,Not Out
+26,2,Alan ,4,7,0,0,57.14,Caught
+27,3,Jared ,33,10,6,1,330.00,Caught
+28,4,Scott ,51,22,6,2,231.82,Not Out
+29,5,Sohail ,28,10,2,2,280.00,Not Out
+30,6,Guy ,0,0,0,0,0.00,Not Out
+31,1,Laurence ,52,22,4,2,236.36,Not Out
+32,2,Charan ,38,20,1,2,190.00,Caught
+33,3,Alan ,37,23,5,0,160.87,Not Out
+34,4,Jared ,50,29,5,1,172.41,Not Out
+35,1,Charan ,44,24,7,0,183.33,Caught
+36,2,Scott ,7,6,1,0,116.67,Caught
+37,3,Jared ,4,4,1,0,100.00,Caught
+38,4,Sohail ,5,5,0,0,100.00,Stumped
+39,5,Alan ,19,19,2,0,100.00,Caught
+40,6,Dave ,5,9,0,0,55.56,Caught
+42,1,Charan ,71,43,7,3,165.12,Caught
+43,2,Sohail ,8,11,0,0,72.73,LBW
+44,3,Scott ,34,23,4,1,147.83,Caught
+45,4,Dave ,0,1,0,0,0.00,Bowled
+46,5,Jared ,17,13,0,1,130.77,Caught
+48,1,Alan ,33,26,2,1,126.92,Bowled
+49,2,Charan ,55,26,3,4,211.54,Not Out
+50,3,Jared ,10,9,0,0,111.11,Caught
+51,4,Scott ,25,22,1,1,113.64,Caught
+52,5,Sohail ,3,10,0,0,30.00,Bowled
+53,6,Dave ,3,8,0,0,37.50,Not Out
+54,1,Herculano ,50,34,2,3,147.06,Not Out
+55,3,Scott ,37,21,0,4,176.19,Caught
+56,6,Sohail ,2,2,0,0,100.00,Bowled
+57,7,Alan ,1,2,0,0,50.00,Not Out
+59,1,Jared ,5,11,0,0,45.45,Caught
+60,2,Charan ,50,29,5,0,172.41,Not Out
+61,7,Alan ,5,5,0,0,100.00,Not Out
+62,1,Herculano ,9,5,2,0,180.00,Caught
+63,2,Charan ,48,23,4,3,208.70,Caught
+64,5,Dave ,10,12,1,0,83.33,Run Out
+65,7,Alan ,2,3,0,0,66.67,LBW
+67,1,Herculano ,15,20,1,0,75.00,Caught
+68,2,Charan ,54,24,5,3,225.00,Not Out
+69,4,Jared ,33,19,1,0,173.68,Not Out
+71,1,Charan ,51,23,6,2,221.74,Not Out
+72,2,Herculano ,17,8,2,0,212.50,Caught
+73,3,Scott ,31,26,2,0,119.23,Caught
+74,4,Jared ,8,7,1,0,114.29,Caught
+75,5,Alan ,5,7,0,0,71.43,Caught
+76,6,Dave ,46,31,5,0,148.39,Not Out
+78,1,Jared ,50,27,3,0,185.19,Not Out
+79,3,Dave ,45,29,3,2,155.17,Bowled
+80,4,Charan ,19,12,2,0,158.33,Caught
+81,5,Alan ,46,17,6,1,270.59,Not Out
+84,1,Charan ,16,16,1,0,100.00,Bowled
+85,3,Alan ,52,50,4,0,104.00,Not Out
+86,4,Dave ,4,5,0,0,80.00,Bowled
+88,6,Guy ,17,11,2,1,154.55,Run Out
+89,7,Scott ,35,13,5,2,269.23,Bowled
+90,1,Charan ,5,4,0,0,125.00,Bowled
+91,2,Herculano ,0,2,0,0,0.00,Bowled
+92,4,Scott ,39,26,4,0,150.00,Bowled
+93,6,Jared ,2,3,0,0,66.67,Bowled
+94,7,Alan ,12,15,0,0,80.00,Caught
+95,8,Dave ,11,13,1,0,84.62,Caught
+96,1,Charan ,52,28,4,2,185.71,Not Out
+97,3,Alan ,27,18,3,0,150.00,Caught
+98,4,Scott ,54,23,3,5,234.78,Not Out
+99,6,Herculano ,13,8,2,0,162.50,Bowled
+100,1,Jared ,50,27,4,3,185.19,Not Out
+101,2,Herculano ,7,10,0,0,70.00,Bowled
+102,4,Scott ,46,24,5,2,191.67,Not Out
+103,5,Charan ,0,1,0,0,0.00,LBW
+104,7,Alan ,4,5,0,0,80.00,Not Out
+105,1,Scott ,0,2,,,0.00,Caught
+106,2,Loughlin ,1,2,,,50.00,Bowled
+107,3,Jared ,19,15,,,126.67,Caught
+108,5,Herculano ,23,19,,,121.05,LBW
+110,8,Tridib ,32,37,,,86.49,Not Out
+111,1,Jared ,50,27,,,185.19,Not Out
+112,2,Herculano ,28,14,,,200.00,Caught
+113,3,Scott ,17,13,,,130.77,Bowled
+114,4,Charan ,14,9,,,155.56,Caught
+115,6,Loughlin ,0,1,,,0.00,Bowled
+116,7,Alan ,44,21,,,209.52,Not Out
+117,8,Tridib ,9,13,,,69.23,Not Out
+118,1,Loughlin ,1,1,,,100.00,Run Out
+119,2,Alan ,54,33,,,163.64,Not Out
+120,3,Jared ,55,28,,,196.43,Not Out
+122,2,Scott ,61,28,,,217.86,Not Out
+123,3,Jared ,1,2,,,50.00,Caught
+125,5,Alan ,3,2,,,150.00,Caught
+126,8,Tridib ,5,6,,,83.33,Caught
+127,1,Jared ,61,25,,,244.00,Not Out
+128,2,Scott ,39,16,,,243.75,Bowled
+129,4,Alan ,28,24,,,116.67,Stumped
+130,1,Scott ,50,32,,,156.25,Not Out
+132,3,Jared ,50,16,,,312.50,Not Out
+133,4,Tridib ,29,14,,,207.14,Not Out
+134,1,Loughlin ,1,2,,,50.00,Caught
+135,2,Scott ,25,24,,,104.17,Bowled
+136,3,Jared ,22,22,,,100.00,Caught
+137,5,Alan ,19,26,,,73.08,Bowled
+138,6,Tridib ,6,7,,,85.71,Not Out
