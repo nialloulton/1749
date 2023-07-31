@@ -2,7 +2,7 @@
   <a href="https://1749.io">
     <img src="https://img1.wsimg.com/isteam/ip/c04c52b0-d600-4637-8c50-4b7c3894ee46/1749-logo.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280" alt="Logo" width="150" height="150">
   </a>
-  <h2 align="center">1749.io - Marketing Analytics Company</h2>
+  <h2 align="center">1749.io - Marketing Analytics & Insights</h2>
 </p>
 
 <p align="center">
