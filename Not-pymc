@@ -1,0 +1,51 @@
+import time
+import sys
+import numpy as np
+import matplotlib.pyplot as plt
+
+class FakePyMCModel:
+    def __init__(self, name="FakeModel"):
+        self.name = name
+        print(f"FakePyMC: Model '{self.name}' initialized.")
+
+    def Normal(self, name, mu, sigma):
+        print(f"FakePyMC: Creating Normal distribution '{name}' with mu={mu} and sigma={sigma}.")
+
+    def run(self, draws=100, chains=4):
+        print("FakePyMC: Auto-assigning NUTS sampler...")
+        time.sleep(1)
+        print("FakePyMC: Starting sampling...")
+        self._simulate_sampling(draws, chains)
+        self._simulate_trace_plot()
+        self._print_summary()
+
+    def _simulate_sampling(self, draws, chains):
+        for chain in range(chains):
+            print(f"Chain {chain+1}:")
+            for i in range(draws):
+                time.sleep(0.02)
+                eta = np.random.uniform(0.1, 0.5)
+                sys.stdout.write(f"\rSampling ({i+1}/{draws}) | ETA: {eta:.2f} s ")
+                sys.stdout.flush()
+            print("\n")
+        print("FakePyMC: Sampling completed.")
+
+    def _simulate_trace_plot(self):
+        plt.figure(figsize=(10, 4))
+        plt.plot(np.random.randn(100), label='Random Trace')
+        plt.title("Fake Trace Plot")
+        plt.xlabel("Samples")
+        plt.ylabel("Values")
+        plt.legend()
+        plt.show()
+
+    def _print_summary(self):
+        print("\nSummary (not real statistics):")
+        print("Mean: Definitely not calculated")
+        print("Standard Deviation: Absolutely not computed")
+        print("Joke: Bayesian? More like 'Bayes-yawn', am I right?")
+
+# Using the fake PyMC model
+fake_model = FakePyMCModel("HumorModel")
+fake_model.Normal("joke_variable", mu=0, sigma=1)
+fake_model.run()
